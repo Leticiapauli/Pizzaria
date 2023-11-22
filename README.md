@@ -16,7 +16,7 @@ O sistema permitir a criação de categorias, de produtos, de pedidos, como tamb
 - `Funcionalidade 4`: Cadastro de Produtos;
 - `Funcionalidade 5`: Concluir Pedidos.
 
-  ## :hammer: Funcionalidades do Projeto - Mobile
+## :hammer: Funcionalidades do Projeto - Mobile
 
 - `Funcionalidade 1`: Abrir mesa, ou seja iniciar um pedido;
 - `Funcionalidade 2`: Fechar mesa;
@@ -48,6 +48,9 @@ Acesse a pasta do projeto no terminal/cmd
 $ cd Pizzaria
 $ cd FrontEnd
 
+Execute a aplicação
+$ yarn dev
+
 🛠️ Abrir e rodar o projeto - Backend
 
 Acesse a pasta do projeto no terminal/cmd
@@ -62,9 +65,6 @@ $ yarn dev
 Acesse a pasta do projeto no terminal/cmd
 $ cd Pizzaria
 $ cd Mobile
-
-Execute a aplicação
-$ yarn dev
 
 Instale as dependências
 $ npm install
