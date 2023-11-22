@@ -29,52 +29,53 @@ O sistema permitir a criação de categorias, de produtos, de pedidos, como tamb
 https://github.com/Leticiapauli/Pizzaria/assets/110863711/71f1b8c6-3f43-4583-843b-20db0555ee17
 
 ```
-## 📁 Acesso ao projeto
+📁 Acesso ao projeto
 
-**Você pode acessar o código fonte do projeto, ou baixá-lo**
+Você pode acessar o código fonte do projeto, ou baixá-lo
 
 
-## 🛠️ Abrir e rodar o projeto 
+🛠️ Abrir e rodar o projeto 
 
-## Instalação
+ Instalação
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js. Além disto é bom ter um editor para trabalhar com o código como VSCode.
 
-## 🛠️ Abrir e rodar o projeto - Frontend
+ 🛠️ Abrir e rodar o projeto - Frontend
 
-### Clone este repositório
+Clone este repositório
 $ git clone git@github.com:Leticiapauli/Pizzaria.git
 
-### Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd Pizzaria
 $ cd FrontEnd
 
-## 🛠️ Abrir e rodar o projeto - Backend
+🛠️ Abrir e rodar o projeto - Backend
 
-### Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd Pizzaria
 $ cd Backend
 
-### Execute a aplicação
+Execute a aplicação
 $ yarn dev
 
 📱 Rodando o App
 
-### Acesse a pasta do projeto no terminal/cmd
+Acesse a pasta do projeto no terminal/cmd
 $ cd Pizzaria
 $ cd Mobile
 
-### Execute a aplicação
+Execute a aplicação
 $ yarn dev
 
-### Instale as dependências
+Instale as dependências
 $ npm install
-### Caso prefira usar o Yarn execute o comando abaixo
+
+Caso prefira usar o Yarn execute o comando abaixo
 $ yarn
 
-### Execute a aplicação
+Execute a aplicação
 $ expo start
 
-### Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app diretamente no seu celular ou as opções de executar no emulador android ou iOS
+Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app diretamente no seu celular ou as opções de executar no emulador android ou iOS
 ```
 
 ## Autora
